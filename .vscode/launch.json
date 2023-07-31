@@ -1,0 +1,70 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "a1p1",
+      "request": "launch",
+      "mainClass": "a1p1",
+      "projectName": "Practice_33c883c4"
+    },
+    {
+      "type": "java",
+      "name": "a1p2",
+      "request": "launch",
+      "mainClass": "a1p2",
+      "projectName": "Practice_33c883c4"
+    },
+    {
+      "type": "java",
+      "name": "DecimalToBinary",
+      "request": "launch",
+      "mainClass": "DecimalToBinary",
+      "projectName": "Practice_33c883c4"
+    },
+    {
+      "type": "java",
+      "name": "bin",
+      "request": "launch",
+      "mainClass": "bin",
+      "projectName": "Practice_33c883c4"
+    },
+    {
+      "type": "java",
+      "name": "QuickStart",
+      "request": "launch",
+      "mainClass": "QuickStart",
+      "projectName": "Practice_33c883c4"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Launch",
+      "program": "${workspaceFolder}/${fileBasenameNoExtension}",
+      "args": [
+        "<",
+        "in.txt"
+      ],
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Abrar/Projects/Practice",
+      "program": "c:/Users/Abrar/Projects/Practice/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
