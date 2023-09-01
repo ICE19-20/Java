@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "frame_layout",
+      "request": "launch",
+      "mainClass": "frame_layout",
+      "projectName": "Java-Programming_52610b17"
+    },
+    {
+      "type": "java",
+      "name": "a3p2",
+      "request": "launch",
+      "mainClass": "a3p2",
+      "projectName": "Java-Programming_52610b17"
+    },
+    {
+      "type": "java",
+      "name": "a3p1c",
+      "request": "launch",
+      "mainClass": "a3p1c",
+      "projectName": "Java-Programming_52610b17"
+    },
+    {
+      "type": "java",
+      "name": "a3p1b",
+      "request": "launch",
+      "mainClass": "a3p1b",
+      "projectName": "Java-Programming_52610b17"
+    },
+    {
+      "type": "java",
+      "name": "a3p1a",
+      "request": "launch",
+      "mainClass": "a3p1a",
+      "projectName": "Java-Programming_52610b17"
+    },
+    {
+      "type": "java",
+      "name": "a3p1",
+      "request": "launch",
+      "mainClass": "a3p1",
+      "projectName": "Java-Programming_52610b17"
+    },
+    {
+      "type": "java",
+      "name": "FirstSwingExample",
+      "request": "launch",
+      "mainClass": "FirstSwingExample",
+      "projectName": "Java-Programming_52610b17"
+    },
+    {
+      "type": "java",
       "name": "a1p1",
       "request": "launch",
       "mainClass": "a1p1",
