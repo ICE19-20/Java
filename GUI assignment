@@ -1,0 +1,21 @@
+import javax.swing.*;
+
+public class two_frame {
+    public static void ndframe(){
+        JFrame frame = new JFrame();
+        frame.setSize(250,250);
+        frame.setTitle("Sub frame :) ");
+        frame.setResizable(false);
+        frame.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
+        frame.setVisible(true);
+    }
+    public static void main(String[] args){
+        JFrame frame = new JFrame();
+        frame.setSize(400,400);
+        frame.setTitle("Main frame :) ");
+        frame.setResizable(false);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setVisible(true);
+        ndframe();
+    }
+}
