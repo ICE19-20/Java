@@ -61,13 +61,13 @@ public class frame_layout {
 
         //GRID
         JLabel lb3 = new JLabel("Label");
-        lb3.setPreferredSize(new Dimension(75,25));
+        //lb3.setPreferredSize(new Dimension(75,25));
         
         JTextField tf3 = new JTextField("Text");
-        tf3.setPreferredSize(new Dimension(200,25));
+        //tf3.setPreferredSize(new Dimension(200,25));
 
         JButton bt3 = new JButton("Send");
-        bt3.setPreferredSize(new Dimension(100,35));
+       // bt3.setPreferredSize(new Dimension(100,35));
         
         fg.setLayout(new GridLayout(2,2));
         fg.add(lb3);

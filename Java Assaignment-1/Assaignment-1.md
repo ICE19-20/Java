@@ -52,3 +52,8 @@
 
 **N.B.: To solve the above problems it is expected to take input from the main method in a class and create another class(s) with necessary methods to solve the problem and return value to the main method to display it within main method.**  
 
+$$
+e=mc^2
+$$
+$$
+gcd(a,b)=\frac{a*b}{lcm(a,b)} $$
