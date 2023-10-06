@@ -1,8 +1,5 @@
-<<<<<<<< HEAD:Lab_test_1/p2_calculator/calculator.java
 
-========
-package Lab_test_1.p2;
->>>>>>>> 30987247aeff103237a3fa3dd309612012265446:Lab_test_1/p2/calculator.java
+
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -60,13 +57,7 @@ public class calculator extends JFrame implements ActionListener {
 		bm.addActionListener(c); bd.addActionListener(c);
 		beq.addActionListener(c); bc.addActionListener(c);
 		be.addActionListener(c);
-<<<<<<<< HEAD:Lab_test_1/p2_calculator/calculator.java
 
-========
-		
-		ImageIcon iconC=new ImageIcon("C:/Users/Abrar/Downloads/icons8-c-key-50.png");
-		//bc.setIcon(iconC);
->>>>>>>> 30987247aeff103237a3fa3dd309612012265446:Lab_test_1/p2/calculator.java
 		JPanel p=new JPanel(new GridLayout(5,4));
 		JPanel p1=new JPanel();
 		p1.add(l);
@@ -87,11 +78,7 @@ public class calculator extends JFrame implements ActionListener {
 		frame.add(p1);
 		frame.add(p);
 		
-<<<<<<<< HEAD:Lab_test_1/p2_calculator/calculator.java
-========
-		frame.show();
->>>>>>>> 30987247aeff103237a3fa3dd309612012265446:Lab_test_1/p2/calculator.java
-		
+
 		
 	}
 
