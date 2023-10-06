@@ -1,4 +1,4 @@
-package Lab_test_1.p2;
+package p2;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;

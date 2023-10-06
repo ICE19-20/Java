@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "calculator2",
+      "request": "launch",
+      "mainClass": "p2.calculator2",
+      "projectName": "Java-Programming_52610b17"
+    },
+    {
+      "type": "java",
+      "name": "calculator2",
+      "request": "launch",
+      "mainClass": "calculator2",
+      "projectName": "Java-Programming_52610b17"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Lab_test_1.P1_BankAccountManager.Main",
